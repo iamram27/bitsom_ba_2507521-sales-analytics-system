@@ -1,5 +1,9 @@
 # Sales Analytics System
 
+Student Name: Nunna Rama Charan Student ID: bitsom_ba_2507521 Email: nunnaramacharan@gmail.com Course: Business Analytics with Gen & Agentic AI | Submission Date: 12-01-2026. 
+
+Project Overview ;
+
 A complete end-to-end Python application that reads sales data, cleans and validates it, performs analytics, enriches data using an external API, and generates a detailed sales report.
 
 This project is built as part of an academic assignment and follows all specified requirements for file handling, data preprocessing, analytics, API integration, and reporting.
